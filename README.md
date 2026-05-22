@@ -602,7 +602,6 @@ Desenvolvido por **Kennedy Anderson** como projeto de portfólio em Ciência de 
 
 Este projeto está disponível para fins educacionais e demonstração de portfólio.
 
-Sugestão: utilizar licença MIT caso deseje permitir reutilização do código.
 
 ---
 
