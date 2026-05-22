@@ -1,6 +1,6 @@
 # FraudNet AI — Detecção Inteligente de Fraudes com Machine Learning e Análise de Redes
 
-> Plataforma analítica para identificar transações suspeitas em ambientes bancários, fintechs, marketing financeiro e serviços digitais, combinando **Machine Learning**, **Big Data Analytics**, **análise de redes** e uma interface web em **Streamlit**.
+> Plataforma analítica para identificar transações suspeitas em ambientes bancários, fintechs, marketing financeiro e serviços digitais, combinando **Machine Learning**, **Big Data Analytics**, **análise de redes** e uma interface web em **Streamlit**. <br><br>
 > Link de Apresentação: https://www.youtube.com/watch?v=kdQ1cjrpO5Q
 
 ---
