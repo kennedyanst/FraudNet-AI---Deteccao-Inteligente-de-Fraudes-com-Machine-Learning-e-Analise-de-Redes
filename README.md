@@ -593,9 +593,8 @@ Time antifraude prioriza análise
 
 Desenvolvido por **Kennedy Anderson** como projeto de portfólio em Ciência de Dados, Machine Learning e Analytics aplicado ao setor financeiro.
 
-- LinkedIn: `adicione seu link`
-- GitHub: `adicione seu link`
-- Portfólio: `adicione seu link`
+- LinkedIn: `https://www.linkedin.com/in/kennedyanst`
+- Portfólio: `https://kennedyanst.github.io/portfolio`
 
 ---
 
